@@ -1,0 +1,24 @@
+{
+  "name": "my-first-discord-bot",
+  "version": "1.0.0",
+  "description": "My first discord bot",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "DiscordBot",
+    "DiscordJS"
+  ],
+  "author": "suhaefi",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}

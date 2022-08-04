@@ -1,0 +1,6 @@
+# Directory
+node_modules/
+
+# Files
+.eslintrc.json
+package-lock.json
